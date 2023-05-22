@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VladimirPopovich27/goit-react-hw-01-components/static/css/main.30e3082a.css",
+    "main.js": "/VladimirPopovich27/goit-react-hw-01-components/static/js/main.924790e9.js",
+    "index.html": "/VladimirPopovich27/goit-react-hw-01-components/index.html",
+    "main.30e3082a.css.map": "/VladimirPopovich27/goit-react-hw-01-components/static/css/main.30e3082a.css.map",
+    "main.924790e9.js.map": "/VladimirPopovich27/goit-react-hw-01-components/static/js/main.924790e9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30e3082a.css",
+    "static/js/main.924790e9.js"
+  ]
+}
