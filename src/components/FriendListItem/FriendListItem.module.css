@@ -5,12 +5,17 @@ align-items: center;
 justify-content: flex-start;
 box-sizing: border-box;
 width: 450px;
-height: 100px;
+height: 80px;
 border: 2px solid gray;
 border-radius: 5px;
 box-shadow:-9px 9px 21px 7px rgba(0,0,0,0.75);
 
 padding: 10px;
+}
+
+.item:hover {
+    transform: scale(0.98);
+    background-color: #e7ecf2;
 }
 
 .item:not(:last-child){
@@ -21,9 +26,9 @@ padding: 10px;
 span.status{
 
 box-sizing: border-box;
-width:20px;
-height: 20px;
-border-radius: 50px;
+width:15px;
+height: 15px;
+border-radius: 40px;
 background-color: green;
 
 margin-right: 20px
@@ -31,9 +36,9 @@ margin-right: 20px
 
 span.statusfalse{
 box-sizing: border-box;
-width:20px;
-height: 20px;
-border-radius: 50px;
+width:15px;
+height: 15px;
+border-radius: 40px;
 background-color: red;
     
 margin-right: 20px 

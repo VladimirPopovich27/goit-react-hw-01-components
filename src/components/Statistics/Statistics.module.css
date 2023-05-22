@@ -33,6 +33,7 @@ width: 90px;
 border:2px solid #2196F3;
 }
 
+
 .item:not(:last-child){
     border-right: none;
 }
